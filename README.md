@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jacklyn-HTA
 - 👀 I’m new and interested in coding, project management and team administration
 - 🌱 I’m currently learning from basic in coding/programming.
-- 💞️ I’m looking to collaborate on project management, team administration and coding
-- 📫 How to reach me through email.
+- 💞️ I’m looking to collaborate on project management, team administration and coding.
+- 📫 Reach me through email.
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love dogs so much but I fear them sometimes.
 
